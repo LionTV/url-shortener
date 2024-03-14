@@ -29,7 +29,7 @@ After creating the SQLite database, a web server is set up using the `net/http` 
 You can clone the source code using Git:
 
 ```bash
-git clone https://github.com/username/url-shortener.git
+git clone https://github.com/LionTV/url-shortener.git
 ```
 
 ### 2. Install Dependencies
